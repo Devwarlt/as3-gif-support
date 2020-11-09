@@ -1,3 +1,5 @@
+<img align="center" src="/src/Gif_PeppoHacker/PeppoHacker.gif"/>
+
 # AS3: *.GIF support [![license-badge]][license]
 Contains some dependencies used to run GIF files in your AS3 project.
 
